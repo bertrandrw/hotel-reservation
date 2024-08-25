@@ -1,7 +1,10 @@
 Hotel Reservation System
+
+
 The Hotel Reservation System is a web application developed using the Spring Boot framework and Thymeleaf templates. It provides a platform for users to manage hotel reservations, including user registration, reservation creation, and viewing past reservations.
 
 Features
+
 User Registration: Users can create accounts by providing essential details such as email, username, and password.
 User Authentication: Secure login functionality using Spring Security to protect user accounts.
 Reservation Management: Users can create new reservations, update existing ones, and view a list of their past reservations.
@@ -21,7 +24,8 @@ Database (e.g., MySQL) and configuration details
 Configuration
 Clone the repository:
 
-bash Copy code git clone https://github.com/your-username/hotel-reservationt cd hotel-reservation-system Configure the database by updating application.properties with your database details.
+bash Copy code git clone https://github.com/your-username/hotel-reservationt cd hotel-reservation
+Configure the database by updating application.properties with your database details.
 
 Build and run the application:
 
