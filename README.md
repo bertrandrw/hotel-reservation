@@ -1,9 +1,9 @@
-Hotel Reservation System
+# Hotel Reservation System
 
 
 The Hotel Reservation System is a web application developed using the Spring Boot framework and Thymeleaf templates. It provides a platform for users to manage hotel reservations, including user registration, reservation creation, and viewing past reservations.
 
-Features
+# Features
 
 User Registration: Users can create accounts by providing essential details such as email, username, and password.
 
@@ -13,7 +13,7 @@ Reservation Management: Users can create new reservations, update existing ones,
 
 Role-Based Access Control: Differentiate between user roles (e.g., regular users and administrators) to control access to certain functionalities.
 
-Technologies Used
+# Technologies Used
 
 Spring Boot: Framework for building Java-based enterprise applications.
 
@@ -25,9 +25,9 @@ Hibernate: Object-relational mapping for efficient database operations.
 
 Bootstrap: Front-end framework for responsive and visually appealing user interfaces.
 
-Getting Started
+# Getting Started
 
-Prerequisites
+# Prerequisites
 
 Java Development Kit (JDK)
 
@@ -35,7 +35,7 @@ Maven (for building and managing dependencies)
 
 Database (e.g., MySQL) and configuration details
 
-Configuration
+# Configuration
 
 Clone the repository:
 
